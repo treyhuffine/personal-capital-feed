@@ -1,0 +1,8 @@
+.Search-autcomplete-wrapper {
+  position: relative;
+}
+.Search-autocomplete {
+  position: absolute;
+  top: -47px;
+  z-index: 10;
+}
